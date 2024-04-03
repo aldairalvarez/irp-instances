@@ -2,10 +2,10 @@
 
 The files in this directory contain all the instances and the solutions obtained by using the algorithms described in  “A Branch-and-Cut Algorithm for a Vendor Managed Inventory Routing Problem” by C. Archetti L. Bertazzi, G. Laporte and M.G. Speranza. There 4 class of instances: 
 
-Horizon = 3; inventory cost at the supplier equal to 0.03; inventory cost at the retailers: randomly generated in the interval (0.01,0.05) (low cost). 
-Horizon = 3; inventory cost at the supplier equal to 0.3; inventory cost at the retailers: randomly generated in the interval (0.1,0.5) (high cost). 
-Horizon = 6; inventory cost at the supplier equal to 0.03; inventory cost at the retailers: randomly generated in the interval (0.01,0.05) (low cost). 
-Horizon = 6; inventory cost at the supplier equal to 0.3; inventory cost at the retailers: randomly generated in the interval (0.1,0.5) (high cost). 
+- Horizon = 3; inventory cost at the supplier equal to 0.03; inventory cost at the retailers: randomly generated in the interval (0.01,0.05) (low cost). 
+- Horizon = 3; inventory cost at the supplier equal to 0.3; inventory cost at the retailers: randomly generated in the interval (0.1,0.5) (high cost). 
+- Horizon = 6; inventory cost at the supplier equal to 0.03; inventory cost at the retailers: randomly generated in the interval (0.01,0.05) (low cost). 
+- Horizon = 6; inventory cost at the supplier equal to 0.3; inventory cost at the retailers: randomly generated in the interval (0.1,0.5) (high cost). 
 
 The format of data files is as follows:
 
