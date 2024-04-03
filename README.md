@@ -18,7 +18,7 @@ where:
 - C = transportation capacity 
 
 The next line contains information concerning the production facility: 
-1 x_1 y_1 B_1 r_1 h_1
+- 1 x_1 y_1 B_1 r_1 h_1
 
 where:
 - 1 =  number corresponding to the supplier 
@@ -29,7 +29,7 @@ where:
 - h_1 = unit inventory cost at the supplier 
 
 The next lines contain, for each retailer, the following information: 
-i x_i y_i I_i0 U_i L_i r_i h_i 
+- i x_i y_i I_i0 U_i L_i r_i h_i 
 
 where 
 - i = retailer number 
